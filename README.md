@@ -1,4 +1,4 @@
-# Mukthar Basha Shaik
+
 <div align="center">
   <h1>Mukthar Basha Shaik</h1>
 <div align="center">
