@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Mukthar Basha</h1>
+  <h1>Mukthar Basha Shaik</h1>
   <h3>Full Stack Developer</h3>
   <p>B.Tech Student &nbsp;&bull;&nbsp; Software Engineering Enthusiast &nbsp;&bull;&nbsp; India</p>
 
