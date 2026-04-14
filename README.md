@@ -123,7 +123,7 @@
   <br/><br/>
   
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.%22+-+Cory+House;%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+-+John+Johnson" alt="Quote Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=0E75B6&center=true&vCenter=true&width=850&lines=%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.%22+-+Cory+House;%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+-+John+Johnson" alt="Quote Typing SVG" />
   </p>
   
   <b><i>Designing clean, scalable, and efficient solutions.</i> <img src="https://icongr.am/feather/zap.svg?size=20&color=0E75B6" alt="Zap" align="center" /></b>
