@@ -26,17 +26,17 @@
 
 <br/>
 
-## <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face" width="30" height="30" /> About Me
+## <img src="https://icongr.am/feather/user.svg?size=28&color=0E75B6" alt="About" align="center" /> About Me
 
 <table>
   <tr>
     <td width="60%">
       <ul>
-        <li><img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="20" height="20" /> <b>B.Tech Student</b> & Software Engineering Enthusiast based in India.</li>
-        <li><img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="20" height="20" /> <b>Focus:</b> Creating practical, efficient products with clean user experiences and solid backend foundations.</li>
-        <li><img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20" /> <b>Currently Learning:</b> Deepening knowledge in <b>React, Redux, Spring Boot</b>, and exploring advanced <b>Data Structures and Algorithms</b>.</li>
-        <li><img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="20" height="20" /> <b>Goal:</b> To grow into a high-impact software engineer by building projects that combine usability, performance, and real-world value.</li>
-        <li><img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="20" height="20" /> <b>Fun Fact:</b> I love exploring new frameworks and writing code while listening to music. <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" alt="Headphone" width="20" height="20" /></li>
+        <li><img src="https://icongr.am/feather/book-open.svg?size=18&color=0E75B6" alt="Student" align="center" /> <b>B.Tech Student</b> & Software Engineering Enthusiast based in India.</li>
+        <li><img src="https://icongr.am/feather/crosshair.svg?size=18&color=0E75B6" alt="Focus" align="center" /> <b>Focus:</b> Creating practical, efficient products with clean user experiences and solid backend foundations.</li>
+        <li><img src="https://icongr.am/feather/zap.svg?size=18&color=0E75B6" alt="Learning" align="center" /> <b>Currently Learning:</b> Deepening knowledge in <b>React, Redux, Spring Boot</b>, and exploring advanced <b>Data Structures and Algorithms</b>.</li>
+        <li><img src="https://icongr.am/feather/award.svg?size=18&color=0E75B6" alt="Goal" align="center" /> <b>Goal:</b> To grow into a high-impact software engineer by building projects that combine usability, performance, and real-world value.</li>
+        <li><img src="https://icongr.am/feather/headphones.svg?size=18&color=0E75B6" alt="Music" align="center" /> <b>Fun Fact:</b> I love exploring new frameworks and writing code while listening to music.</li>
       </ul>
     </td>
     <td width="40%" align="center">
@@ -47,7 +47,7 @@
 
 <br/>
 
-## <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" /> Tech Stack
+## <img src="https://icongr.am/feather/layers.svg?size=28&color=0E75B6" alt="Tech Stack" align="center" /> Tech Stack
 
 <div align="center">
   <table>
@@ -88,19 +88,19 @@
 
 <br/>
 
-## <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Featured Projects
+## <img src="https://icongr.am/feather/code.svg?size=28&color=0E75B6" alt="Projects" align="center" /> Featured Projects
 
-| <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="20" height="20" /> **Project** | <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="20" height="20" /> **Description** |
+| <img src="https://icongr.am/feather/star.svg?size=18&color=0E75B6" alt="Star" align="center" /> **Project** | <img src="https://icongr.am/feather/info.svg?size=18&color=0E75B6" alt="Info" align="center" /> **Description** |
 | :--- | :--- |
-| <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Admission%20Tickets.png" alt="Tickets" width="20" height="20" /> **[Online Ticket Booking Platform](https://github.com/ShaikMuktharBasha)** | A full-stack booking system with CRUD functionality, backend workflow handling, and a smoother user flow for managing tickets. |
-| <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun%20Behind%20Cloud.png" alt="Weather" width="20" height="20" /> **[CI/CD Weather Application](https://github.com/ShaikMuktharBasha)** | A weather app powered by REST APIs with automated deployment workflows and version-controlled delivery. |
-| <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="20" height="20" /> **[BeyondChats](https://github.com/ShaikMuktharBasha)** | An AI-driven conversational application built around LLM-style interactions and REST-based communication. |
-| <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pencil.png" alt="Pencil" width="20" height="20" /> **[Quiz Builder](https://github.com/ShaikMuktharBasha)** | A responsive full-stack platform for creating and attempting quizzes with strong focus on UI flow and state handling. |
-| <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20Facing%20Up.png" alt="Page" width="20" height="20" /> **[Content Analyzer](https://github.com/ShaikMuktharBasha)** | A React-based tool for checking readability, content quality, and text structure. |
+| <img src="https://icongr.am/feather/film.svg?size=18&color=0E75B6" alt="Tickets" align="center" /> **[Online Ticket Booking Platform](https://github.com/ShaikMuktharBasha)** | A full-stack booking system with CRUD functionality, backend workflow handling, and a smoother user flow for managing tickets. |
+| <img src="https://icongr.am/feather/cloud-drizzle.svg?size=18&color=0E75B6" alt="Weather" align="center" /> **[CI/CD Weather Application](https://github.com/ShaikMuktharBasha)** | A weather app powered by REST APIs with automated deployment workflows and version-controlled delivery. |
+| <img src="https://icongr.am/feather/message-square.svg?size=18&color=0E75B6" alt="Chat" align="center" /> **[BeyondChats](https://github.com/ShaikMuktharBasha)** | An AI-driven conversational application built around LLM-style interactions and REST-based communication. |
+| <img src="https://icongr.am/feather/check-square.svg?size=18&color=0E75B6" alt="Quiz" align="center" /> **[Quiz Builder](https://github.com/ShaikMuktharBasha)** | A responsive full-stack platform for creating and attempting quizzes with strong focus on UI flow and state handling. |
+| <img src="https://icongr.am/feather/file-text.svg?size=18&color=0E75B6" alt="Analyzer" align="center" /> **[Content Analyzer](https://github.com/ShaikMuktharBasha)** | A React-based tool for checking readability, content quality, and text structure. |
 
 <br/>
 
-## <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="30" height="30" /> GitHub Analytics
+## <img src="https://icongr.am/feather/bar-chart-2.svg?size=28&color=0E75B6" alt="Analytics" align="center" /> GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShaikMuktharBasha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=000000" alt="GitHub Stats" width="48%" />
@@ -115,7 +115,7 @@
 
 <br/>
 
-## <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" alt="Envelope" width="30" height="30" /> Let's Connect
+## <img src="https://icongr.am/feather/mail.svg?size=28&color=0E75B6" alt="Connect" align="center" /> Let's Connect
 
 <div align="center">
   <p>If you want to collaborate on web development, discuss projects, or connect professionally, feel free to reach out.</p>
@@ -126,5 +126,5 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.%22+-+Cory+House;%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+-+John+Johnson" alt="Quote Typing SVG" />
   </p>
   
-  <b><i>Designing clean, scalable, and efficient solutions.</i> <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20" /></b>
+  <b><i>Designing clean, scalable, and efficient solutions.</i> <img src="https://icongr.am/feather/zap.svg?size=20&color=0E75B6" alt="Zap" align="center" /></b>
 </div>
