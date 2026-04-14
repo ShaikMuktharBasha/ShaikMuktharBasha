@@ -1,11 +1,11 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Mukthar!%20%3C/%3E&fontSize=50&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20B.Tech%20Student%20%7C%20Software%20Engineer&descAlignY=55&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Mukthar!%20%F0%9F%91%8B&fontSize=50&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20B.Tech%20Student%20%7C%20Software%20Engineer&descAlignY=55&descAlign=50" alt="Header" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Java+%26+React.js+Enthusiast;Building+Scalable+Web+Apps;Always+Learning+%26+Coding!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+%26+React.js+Enthusiast;Building+Scalable+Web+Apps;Always+Learning+%26+Coding!" alt="Typing SVG" />
   </a>
 </div>
 
