@@ -4,6 +4,12 @@
 </div>
 
 <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+%26+React.js+Enthusiast;Building+Scalable+Web+Apps;Always+Learning+%26+Coding!" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
   <p>
     <a href="https://www.linkedin.com/in/shaik-mukthar-basha-581847325/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -22,10 +28,32 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **B.Tech Student** & Software Engineering Enthusiast based in India.
-- 💻 **Focus:** Creating practical, efficient products with clean user experiences and solid backend foundations.
-- 🚀 **Currently Learning:** Deepening knowledge in **React, Redux, Spring Boot**, and exploring advanced **Data Structures and Algorithms**.
-- 💡 **Goal:** To grow into a high-impact software engineer by building projects that combine usability, performance, and real-world value.
+<table>
+  <tr>
+    <td width="60%">
+      <ul>
+        <li>🎓 <b>B.Tech Student</b> & Software Engineering Enthusiast based in India.</li>
+        <li>💻 <b>Focus:</b> Creating practical, efficient products with clean user experiences and solid backend foundations.</li>
+        <li>🚀 <b>Currently Learning:</b> Deepening knowledge in <b>React, Redux, Spring Boot</b>, and exploring advanced <b>Data Structures and Algorithms</b>.</li>
+        <li>💡 <b>Goal:</b> To grow into a high-impact software engineer by building projects that combine usability, performance, and real-world value.</li>
+        <li>⚡ <b>Fun Fact:</b> I love exploring new frameworks and writing code while listening to music. 🎧</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="250"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ShaikMuktharBasha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="shaikmuktharbasha trophies" />
+  </a>
+</div>
 
 <br/>
 
@@ -103,5 +131,10 @@
   <p>If you want to collaborate on web development, discuss projects, or connect professionally, feel free to reach out.</p>
   <img src="https://komarev.com/ghpvc/?username=ShaikMuktharBasha&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   <br/><br/>
-  <b><i>Designing clean, scalable, and efficient solutions.</i></b>
+  
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.%22+-+Cory+House;%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+-+John+Johnson" alt="Quote Typing SVG" />
+  </p>
+  
+  <b><i>Designing clean, scalable, and efficient solutions.</i> 🚀</b>
 </div>
