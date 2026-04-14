@@ -1,92 +1,107 @@
+<!-- Header Section -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Mukthar!%20%F0%9F%91%8B&fontSize=50&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20B.Tech%20Student%20%7C%20Software%20Engineer&descAlignY=55&descAlign=50" alt="Header" />
+</div>
 
 <div align="center">
-  <h1>Mukthar Basha Shaik</h1>
-<div align="center">
-  <h3>Full Stack Developer</h3>
-  <p>
-    B.Tech Student &bull; Software Engineering Enthusiast &bull; India
-  </p>
-
   <p>
     <a href="https://www.linkedin.com/in/shaik-mukthar-basha-581847325/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:2300032055cseh1@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://github.com/ShaikMuktharBasha">
-      <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
+  <i>Passionate about building scalable web applications and improving through continuous problem solving.</i>
 </div>
 
----
+<br/>
 
-## About Me
+## 👨‍💻 About Me
 
-> Passionate about building scalable web applications and improving through continuous problem solving.
+- 🎓 **B.Tech Student** & Software Engineering Enthusiast based in India.
+- 💻 **Focus:** Creating practical, efficient products with clean user experiences and solid backend foundations.
+- 🚀 **Currently Learning:** Deepening knowledge in **React, Redux, Spring Boot**, and exploring advanced **Data Structures and Algorithms**.
+- 💡 **Goal:** To grow into a high-impact software engineer by building projects that combine usability, performance, and real-world value.
 
-I am a full stack developer focused on creating practical, efficient products with clean user experiences and solid backend foundations. My current goal is to keep sharpening both application development and problem-solving depth so I can grow into a high-impact software engineer.
+<br/>
 
-## Current Focus
-
-- Building stronger expertise in React, Redux, and modern backend architecture
-- Improving Data Structures and Algorithms through consistent practice
-- Creating projects that combine usability, performance, and real-world value
-
-## Tech Stack
-
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
-
-### Backend and Database
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
-
-## Featured Projects
-
-| Project | What It Does |
-| :-- | :-- |
-| **Online Ticket Booking Platform** | A full-stack booking system with CRUD functionality, backend workflow handling, and a smoother user flow for managing tickets. |
-| **CI/CD Weather Application** | A weather app powered by REST APIs with automated deployment workflows and version-controlled delivery. |
-| **BeyondChats** | An AI-driven conversational application built around LLM-style interactions and REST-based communication. |
-| **Quiz Builder** | A responsive full-stack platform for creating and attempting quizzes with strong focus on UI flow and state handling. |
-| **Content Analyzer** | A React-based tool for checking readability, content quality, and text structure. |
-
-## GitHub Activity
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShaikMuktharBasha&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaikMuktharBasha&theme=transparent&hide_border=true" alt="GitHub Streak" width="48%" />
+  <table>
+    <tr>
+      <td align="center" width="25%"><b>Languages</b></td>
+      <td align="center" width="25%"><b>Frontend</b></td>
+      <td align="center" width="25%"><b>Backend & Database</b></td>
+      <td align="center" width="25%"><b>Tools & Platforms</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=c,java,js" />
+        </a><br>
+        <i>C • Java • JavaScript</i>
+      </td>
+      <td align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=html,css,react,redux" />
+        </a><br>
+        <i>HTML5 • CSS3 • React • Redux</i>
+      </td>
+      <td align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=nodejs,spring,mysql,mongodb,supabase" />
+        </a><br>
+        <i>Node.js • Spring • MySQL • MongoDB</i>
+      </td>
+      <td align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,eclipse" />
+        </a><br>
+        <i>Git • Docker • VS Code</i>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br />
+<br/>
+
+## 🚀 Featured Projects
+
+| 🌟 **Project** | 📝 **Description** |
+| :--- | :--- |
+| **🎟️ [Online Ticket Booking Platform](https://github.com/ShaikMuktharBasha)** | A full-stack booking system with CRUD functionality, backend workflow handling, and a smoother user flow for managing tickets. |
+| **🌤️ [CI/CD Weather Application](https://github.com/ShaikMuktharBasha)** | A weather app powered by REST APIs with automated deployment workflows and version-controlled delivery. |
+| **🤖 [BeyondChats](https://github.com/ShaikMuktharBasha)** | An AI-driven conversational application built around LLM-style interactions and REST-based communication. |
+| **📝 [Quiz Builder](https://github.com/ShaikMuktharBasha)** | A responsive full-stack platform for creating and attempting quizzes with strong focus on UI flow and state handling. |
+| **📄 [Content Analyzer](https://github.com/ShaikMuktharBasha)** | A React-based tool for checking readability, content quality, and text structure. |
+
+<br/>
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikMuktharBasha&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="56%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShaikMuktharBasha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaikMuktharBasha&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" width="48%" />
 </div>
 
-## Let's Connect
-
-If you want to collaborate on web development, discuss projects, or connect professionally, feel free to reach out.
+<br/>
 
 <div align="center">
-  <b>Designing clean, scalable, and efficient solutions.</b>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikMuktharBasha&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" width="60%" />
+</div>
+
+<br/>
+
+## 🤝 Let's Connect
+
+<div align="center">
+  <p>If you want to collaborate on web development, discuss projects, or connect professionally, feel free to reach out.</p>
+  <img src="https://komarev.com/ghpvc/?username=ShaikMuktharBasha&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <br/><br/>
+  <b><i>Designing clean, scalable, and efficient solutions.</i></b>
 </div>
