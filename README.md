@@ -100,17 +100,17 @@
 
 <br/>
 
-## <img src="https://icongr.am/feather/bar-chart-2.svg?size=28&color=0E75B6" alt="Analytics" align="center" /> GitHub Analytics
+## <img src="https://icongr.am/feather/activity.svg?size=28&color=0E75B6" alt="Activity" align="center" /> GitHub Activity & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShaikMuktharBasha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=000000" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaikMuktharBasha&theme=tokyonight&hide_border=true&background=000000" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaikMuktharBasha&theme=tokyonight&hide_border=true&background=00000000&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6" alt="GitHub Streak" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShaikMuktharBasha&theme=tokyonight" alt="Profile Summary" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikMuktharBasha&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShaikMuktharBasha&theme=tokyo-night&hide_border=true&bg_color=00000000&color=0E75B6&line=0E75B6&point=ffffff" alt="Contribution Graph" width="100%" />
 </div>
 
 <br/>
