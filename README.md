@@ -26,7 +26,7 @@
 
 <br/>
 
-## <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Man%20Technologist.png" alt="Man Technologist" width="30" height="30" /> About Me
+## <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face" width="30" height="30" /> About Me
 
 <table>
   <tr>
@@ -47,7 +47,7 @@
 
 <br/>
 
-## <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Hammer%20and%20Wrench.png" alt="Tools" width="30" height="30" /> Tech Stack
+## <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" /> Tech Stack
 
 <div align="center">
   <table>
@@ -103,19 +103,19 @@
 ## <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="30" height="30" /> GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShaikMuktharBasha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaikMuktharBasha&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShaikMuktharBasha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=000000" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaikMuktharBasha&theme=tokyonight&hide_border=true&background=000000" alt="GitHub Streak" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikMuktharBasha&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikMuktharBasha&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" alt="Top Languages" width="60%" />
 </div>
 
 <br/>
 
-## <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Handshake.png" alt="Handshake" width="30" height="30" /> Let's Connect
+## <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" alt="Envelope" width="30" height="30" /> Let's Connect
 
 <div align="center">
   <p>If you want to collaborate on web development, discuss projects, or connect professionally, feel free to reach out.</p>
