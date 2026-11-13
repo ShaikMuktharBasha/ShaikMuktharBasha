@@ -1,86 +1,99 @@
-<!-- Header Section -->
+<!-- ===================================================================
+     HEADER SECTION
+=================================================================== -->
+<a name="top"></a>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Mukthar!%20%F0%9F%91%8B&fontSize=50&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20B.Tech%20Student%20%7C%20Software%20Engineer&descAlignY=55&descAlign=50" alt="Header" />
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customBgColor=0d1117,0369a1,0284c7&height=220&section=header&text=Hi%20there,%20I'm%20Mukthar!%20%F0%9F%91%8B&fontSize=44&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20B.Tech%20CSE%20%7C%20Software%20Engineer&descAlignY=55&descAlign=50" alt="Mukthar Basha Header" width="100%" />
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+%26+React.js+Enthusiast;Building+Scalable+Web+Apps;Always+Learning+%26+Coding!" alt="Typing SVG" />
+  <a href="https://github.com/ShaikMuktharBasha">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0284C7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+Problem+Solver;Java+%26+Spring+Boot+Architect;React.js+%26+Modern+Web+Enthusiast;Building+Scalable+Cloud+%26+Web+Applications;Always+Learning+%26+Crafting+Clean+Code" alt="Typing SVG Banner" />
   </a>
-</div>
 
-<div align="center">
-  <p>
-    <a href="https://www.linkedin.com/in/shaik-mukthar-basha-581847325/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <p align="center">
+    <a href="https://www.linkedin.com/in/shaik-mukthar-basha-581847325/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:2300032055cseh1@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://github.com/ShaikMuktharBasha">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <a href="https://github.com/ShaikMuktharBasha" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
+    <img src="https://komarev.com/ghpvc/?username=ShaikMuktharBasha&label=Profile%20Views&color=0284c7&style=for-the-badge" alt="Profile Views" />
   </p>
-  <i>Passionate about building scalable web applications and improving through continuous problem solving.</i>
+
+  <p>
+    <i>✨ "Architecting clean, scalable, and resilient software with modern user experiences." ✨</i>
+  </p>
 </div>
 
 <br/>
 
-## <img src="https://icongr.am/feather/user.svg?size=28&color=0E75B6" alt="About" align="center" /> About Me
+<!-- ===================================================================
+     ABOUT ME SECTION
+=================================================================== -->
+## 🚀 About Me
 
 <table>
   <tr>
-    <td width="60%">
+    <td width="62%" valign="top">
       <ul>
-        <li><img src="https://icongr.am/feather/book-open.svg?size=18&color=0E75B6" alt="Student" align="center" /> <b>B.Tech Student</b> & Software Engineering Enthusiast based in India.</li>
-        <li><img src="https://icongr.am/feather/crosshair.svg?size=18&color=0E75B6" alt="Focus" align="center" /> <b>Focus:</b> Creating practical, efficient products with clean user experiences and solid backend foundations.</li>
-        <li><img src="https://icongr.am/feather/zap.svg?size=18&color=0E75B6" alt="Learning" align="center" /> <b>Currently Learning:</b> Deepening knowledge in <b>React, Redux, Spring Boot</b>, and exploring advanced <b>Data Structures and Algorithms</b>.</li>
-        <li><img src="https://icongr.am/feather/award.svg?size=18&color=0E75B6" alt="Goal" align="center" /> <b>Goal:</b> To grow into a high-impact software engineer by building projects that combine usability, performance, and real-world value.</li>
-        <li><img src="https://icongr.am/feather/headphones.svg?size=18&color=0E75B6" alt="Music" align="center" /> <b>Fun Fact:</b> I love exploring new frameworks and writing code while listening to music.</li>
+        <li>🎓 <b>Academic Background:</b> B.Tech Student in Computer Science & Engineering based in India.</li>
+        <li>💻 <b>Core Expertise:</b> Designing & developing full-stack web applications, RESTful microservices, and robust database architectures.</li>
+        <li>⚡ <b>Currently Mastering:</b> Advanced <b>React, Redux Toolkit, Spring Boot, Microservices</b>, and competitive <b>Data Structures & Algorithms</b>.</li>
+        <li>🎯 <b>Engineering Philosophy:</b> Writing clean, testable, and maintainable code that delivers real-world performance and delight.</li>
+        <li>🎧 <b>Beyond The Code:</b> Passionate about exploring emerging tech stacks, contributing to projects, and coding with good music.</li>
       </ul>
     </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding GIF" width="250"/>
+    <td width="38%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer Coding" width="260" style="border-radius: 12px;"/>
     </td>
   </tr>
 </table>
 
 <br/>
 
-## <img src="https://icongr.am/feather/layers.svg?size=28&color=0E75B6" alt="Tech Stack" align="center" /> Tech Stack
+<!-- ===================================================================
+     TECH STACK & TOOLING
+=================================================================== -->
+## 🛠️ Tech Stack & Tooling
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="25%"><b>Languages</b></td>
-      <td align="center" width="25%"><b>Frontend</b></td>
-      <td align="center" width="25%"><b>Backend & Database</b></td>
-      <td align="center" width="25%"><b>Tools & Platforms</b></td>
+      <td align="center" width="25%"><b>💻 Languages</b></td>
+      <td align="center" width="25%"><b>🎨 Frontend</b></td>
+      <td align="center" width="25%"><b>⚙️ Backend & Database</b></td>
+      <td align="center" width="25%"><b>🚀 DevOps & Tools</b></td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" valign="top">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=c,java,js" />
-        </a><br>
-        <i>C • Java • JavaScript</i>
+          <img src="https://skillicons.dev/icons?i=c,java,js,ts,py" alt="Languages" />
+        </a>
+        <br/><br/>
+        <sub><b>C • Java • JavaScript<br/>TypeScript • Python</b></sub>
       </td>
-      <td align="center">
+      <td align="center" valign="top">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=html,css,react,redux" />
-        </a><br>
-        <i>HTML5 • CSS3 • React • Redux</i>
+          <img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind,bootstrap" alt="Frontend" />
+        </a>
+        <br/><br/>
+        <sub><b>HTML5 • CSS3 • React<br/>Redux • Tailwind • Bootstrap</b></sub>
       </td>
-      <td align="center">
+      <td align="center" valign="top">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=nodejs,spring,mysql,mongodb,supabase" />
-        </a><br>
-        <i>Node.js • Spring • MySQL • MongoDB</i>
+          <img src="https://skillicons.dev/icons?i=spring,nodejs,express,mysql,mongodb,postgres,supabase" alt="Backend and Database" />
+        </a>
+        <br/><br/>
+        <sub><b>Spring Boot • Node.js • Express<br/>MySQL • MongoDB • PostgreSQL • Supabase</b></sub>
       </td>
-      <td align="center">
+      <td align="center" valign="top">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,eclipse" />
-        </a><br>
-        <i>Git • Docker • VS Code</i>
+          <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,eclipse" alt="DevOps and Tools" />
+        </a>
+        <br/><br/>
+        <sub><b>Git • GitHub • Docker<br/>Postman • VS Code • Eclipse</b></sub>
       </td>
     </tr>
   </table>
@@ -88,43 +101,83 @@
 
 <br/>
 
-## <img src="https://icongr.am/feather/code.svg?size=28&color=0E75B6" alt="Projects" align="center" /> Featured Projects
+<!-- ===================================================================
+     FEATURED PROJECTS
+=================================================================== -->
+## 💡 Featured Projects
 
-| <img src="https://icongr.am/feather/star.svg?size=18&color=0E75B6" alt="Star" align="center" /> **Project** | <img src="https://icongr.am/feather/info.svg?size=18&color=0E75B6" alt="Info" align="center" /> **Description** |
-| :--- | :--- |
-| <img src="https://icongr.am/feather/film.svg?size=18&color=0E75B6" alt="Tickets" align="center" /> **[Online Ticket Booking Platform](https://github.com/ShaikMuktharBasha)** | A full-stack booking system with CRUD functionality, backend workflow handling, and a smoother user flow for managing tickets. |
-| <img src="https://icongr.am/feather/cloud-drizzle.svg?size=18&color=0E75B6" alt="Weather" align="center" /> **[CI/CD Weather Application](https://github.com/ShaikMuktharBasha)** | A weather app powered by REST APIs with automated deployment workflows and version-controlled delivery. |
-| <img src="https://icongr.am/feather/message-square.svg?size=18&color=0E75B6" alt="Chat" align="center" /> **[BeyondChats](https://github.com/ShaikMuktharBasha)** | An AI-driven conversational application built around LLM-style interactions and REST-based communication. |
-| <img src="https://icongr.am/feather/check-square.svg?size=18&color=0E75B6" alt="Quiz" align="center" /> **[Quiz Builder](https://github.com/ShaikMuktharBasha)** | A responsive full-stack platform for creating and attempting quizzes with strong focus on UI flow and state handling. |
-| <img src="https://icongr.am/feather/file-text.svg?size=18&color=0E75B6" alt="Analyzer" align="center" /> **[Content Analyzer](https://github.com/ShaikMuktharBasha)** | A React-based tool for checking readability, content quality, and text structure. |
+| 📌 Project | 🛠️ Tech Stack | 📖 Overview | 🔗 Repositories |
+| :--- | :--- | :--- | :---: |
+| **Online Ticket Booking Platform** | `Java` `Spring Boot` `React` `MySQL` | Full-stack ticket reservation workflow with seat selection, secure authentication, and CRUD booking management. | [Frontend](https://github.com/ShaikMuktharBasha/onlineticket_frontend) • [Backend](https://github.com/ShaikMuktharBasha/onlineticket_Backend) |
+| **CI/CD Automated Weather App** | `Java` `React` `Docker` `Jenkins` | Real-time weather forecasting service integrated with automated CI/CD build, testing, and containerized deployment pipelines. | [Repository](https://github.com/ShaikMuktharBasha/cicd_weatherApp) |
+| **BeyondChats — AI Assistant** | `React` `Node.js` `AI / LLM` `REST` | Context-aware AI conversational interface featuring dynamic streaming responses, message history, and clean UI state. | [Frontend](https://github.com/ShaikMuktharBasha/beyondchat-frontend) • [Backend](https://github.com/ShaikMuktharBasha/beyondchat-backend) |
+| **Quiz Builder & Assessment Suite** | `React` `Redux` `Java` `Spring Boot` | Interactive quiz creation and evaluation platform featuring countdown timers, state management, and real-time score analytics. | [Frontend](https://github.com/ShaikMuktharBasha/quizbuilder_frontend) • [Backend](https://github.com/ShaikMuktharBasha/quizbuilder_backend) |
+| **Real-Time Polling Platform** | `React` `Java` `WebSockets` `REST` | Multi-user live voting engine featuring instant vote synchronization, dynamic visualization charts, and room management. | [Frontend](https://github.com/ShaikMuktharBasha/realtime-poll-frontend) • [Backend](https://github.com/ShaikMuktharBasha/realtime-poll-backend) |
+| **RAG AI Chatbot & Knowledge Engine** | `Python` `LangChain` `Vector DB` `RAG` | Advanced Retrieval-Augmented Generation assistant querying documents to deliver grounded, accurate, and contextual answers. | [Repository](https://github.com/ShaikMuktharBasha/RAG_CHATBOT_CC_EXP1) |
 
 <br/>
 
-## <img src="https://icongr.am/feather/activity.svg?size=28&color=0E75B6" alt="Activity" align="center" /> GitHub Activity & Analytics
+<!-- ===================================================================
+     GITHUB ANALYTICS & ACTIVITY
+=================================================================== -->
+## 📊 GitHub Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaikMuktharBasha&theme=tokyonight&hide_border=true&background=00000000&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6" alt="GitHub Streak" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShaikMuktharBasha&theme=tokyonight" alt="Profile Summary" width="48%" />
+  <table border="0">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://streak-stats.demolab.com/?user=ShaikMuktharBasha&theme=tokyonight&hide_border=true&background=00000000&ring=0284C7&fire=0284C7&currStreakLabel=0284C7" alt="GitHub Streak" width="100%" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShaikMuktharBasha&theme=tokyonight" alt="Profile Details" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShaikMuktharBasha&theme=tokyonight" alt="Repos Per Language" width="100%" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShaikMuktharBasha&theme=tokyonight" alt="Most Commit Language" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShaikMuktharBasha&theme=tokyo-night&hide_border=true&bg_color=00000000&color=0E75B6&line=0E75B6&point=ffffff" alt="Contribution Graph" width="100%" />
-</div>
-
-<br/>
-
-## <img src="https://icongr.am/feather/mail.svg?size=28&color=0E75B6" alt="Connect" align="center" /> Let's Connect
+<!-- ===================================================================
+     CONNECT & FOOTER
+=================================================================== -->
+## 🤝 Let's Connect & Collaborate
 
 <div align="center">
-  <p>If you want to collaborate on web development, discuss projects, or connect professionally, feel free to reach out.</p>
-  <img src="https://komarev.com/ghpvc/?username=ShaikMuktharBasha&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <br/><br/>
-  
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=0E75B6&center=true&vCenter=true&width=850&lines=%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.%22+-+Cory+House;%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+-+John+Johnson" alt="Quote Typing SVG" />
+  <p>I am always open to discussing new projects, creative ideas, software engineering opportunities, and open-source collaborations!</p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/shaik-mukthar-basha-581847325/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Connect" />
+    </a>
+    &nbsp;
+    <a href="mailto:2300032055cseh1@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Mukthar" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/ShaikMuktharBasha" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Follow" />
+    </a>
   </p>
-  
-  <b><i>Designing clean, scalable, and efficient solutions.</i> <img src="https://icongr.am/feather/zap.svg?size=20&color=0E75B6" alt="Zap" align="center" /></b>
+
+  <br/>
+
+  <a href="https://github.com/ShaikMuktharBasha">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=0284C7&center=true&vCenter=true&width=850&lines=%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.%22+-+Cory+House;%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+-+John+Johnson;%22Make+it+work%2C+make+it+right%2C+make+it+fast.%22+-+Kent+Beck" alt="Engineering Quotes Typing SVG" />
+  </a>
+
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customBgColor=0d1117,0369a1,0284c7&height=100&section=footer" alt="Footer Wave" width="100%" />
+
+  <p align="center">
+    <sub>Crafted with passion by <b>Mukthar Basha Shaik</b> • <a href="#top">Back to Top ⬆️</a></sub>
+  </p>
 </div>
